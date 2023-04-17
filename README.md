@@ -1,2 +1,7 @@
 # Competitive-Programming-Session-Content
-Competitive Programming Sessions
+
+This repository contains my competitive programming session content for ICPC SCU.
+
+## Sessions
+
+- [Recursion](Recursion/readme.md)
